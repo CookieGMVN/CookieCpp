@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630838236 source:/home/pi/CookieLearningCpp/BC2021-PC/main.cpp
+	<iostream>
+
+1630838484 source:/home/pi/CookieLearningCpp/BC2021-PC/eggs.cpp
+	<iostream>
+	<math.h>
+
